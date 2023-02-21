@@ -95,3 +95,4 @@ describe('notHesaplaFunction', ()=>{
       expect(functions.notHesapla(20)).toBe('F aldın');
   })
 });
+
